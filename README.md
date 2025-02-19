@@ -1,4 +1,4 @@
-# Treehacks-Sustainability-Project
+# TreeCycle
 
 ## Brief Overview
 TreeCycle uses VR to show kids how everyday recycling choices shape our planet. Through immersive visualization and interactive gameplay, we're making environmental education engaging and impactful.
