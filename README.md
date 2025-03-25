@@ -1,4 +1,5 @@
 # TreeCycle
+[![Watch Video](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube&style=for-the-badge)](https://youtu.be/yDez3BDtcOo)
 
 ## Brief Overview
 TreeCycle uses VR to show kids how everyday recycling choices shape our planet. Through immersive visualization and interactive gameplay, we're making environmental education engaging and impactful.
